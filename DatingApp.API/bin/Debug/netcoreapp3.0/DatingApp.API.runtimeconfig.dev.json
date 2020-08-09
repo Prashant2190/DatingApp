@@ -2,7 +2,8 @@
   "runtimeOptions": {
     "additionalProbingPaths": [
       "C:\\Users\\parsh\\.dotnet\\store\\|arch|\\|tfm|",
-      "C:\\Users\\parsh\\.nuget\\packages"
+      "C:\\Users\\parsh\\.nuget\\packages",
+      "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
     ]
   }
 }

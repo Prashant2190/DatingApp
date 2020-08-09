@@ -47,7 +47,6 @@ C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.IdentityModel.Token
 C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
 C:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\System.IdentityModel.Tokens.Jwt.dll
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.Development.json
-D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.json
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Properties\launchSettings.json
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.exe
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\DatingApp.API.deps.json
@@ -103,3 +102,4 @@ D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Microsoft.AspNetCore.Mvc.Newt
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\Newtonsoft.Json.Bson.dll
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.dll
 D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\AutoMapper.Extensions.Microsoft.DependencyInjection.dll
+D:\DatingApp\DatingApp.API\bin\Debug\netcoreapp3.0\appsettings.json
